@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.products{
+    max-width: 114rem;
+        
+}
+
+.products .card img{
+    height: 60%;
+}
+
+.login-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70%;
+} 
+
+.register-form{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+} 
+
+ .footer{
+    text-align: center;
+    background-color: dimgrey;
+    padding: 3rem 0;
+    position: relative;
+    bottom: 0;
+
+ }
+ .footer h1{
+     margin: 0 auto;
+ }
+
+ 
